@@ -1,7 +1,0 @@
-k,q,l,b,n,p = input().split()
-print(1 - int(k))
-print(1 - int(q))
-print(2 - int(l))
-print(2 - int(b))
-print(2 - int(n))
-print(8 - int(p))
