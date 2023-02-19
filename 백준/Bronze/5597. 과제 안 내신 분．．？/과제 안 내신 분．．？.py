@@ -8,5 +8,5 @@ for i in range(28):
 
 print(min(X),max(X),end = "\n")
 
-
+## remove
 
