@@ -12,3 +12,6 @@ for _ in range(C) :
 
     rate = (cnt/N[0])*100
     print(f'{rate:.3f}%')
+    
+    ## print()에서 소수점 표현 방법. f-string에서 {변수:.3f}% 꼴로 표현
+    ## case[1:] 과 같은 방법으로 첫 번째 요소를 제외할 수 있다
