@@ -11,3 +11,6 @@ if cnt_S.count(max(cnt_S)) > 1 :
 
 else :
     print(unique_S[cnt_S.index(max(cnt_S))]) 
+
+    ## upper() 
+    ## lower()
