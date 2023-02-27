@@ -10,3 +10,7 @@ for _ in range(M) :
     Num = Num[:i] + Num[k:j+1] + Num[i:k] + Num[j+1:]
 
 print(*Num)
+
+## list 자료형은
+## Num = Num[:i] + Num[k:j+1] + Num[i:k] + Num[j+1:]
+## 와 같이 붙여 쓸 수 있다.
