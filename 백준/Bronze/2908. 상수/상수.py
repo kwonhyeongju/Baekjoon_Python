@@ -7,3 +7,6 @@ if A>B :
     print(A)
 else :
     print(B)
+
+
+## num1 = int(num1[::-1])  # [::-1] : 역순     
